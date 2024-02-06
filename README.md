@@ -16,7 +16,7 @@ I am a Software Developer currently honing my skills and expertise in Full Stack
 
 - **Email**: hassanhauda@gmail.com
 - [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-umar-hassan/)
-- [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/@nabeelhassan_)
+- [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://www.twitter.com/@nabeelhassan_)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_nabeelhassan/)
 - https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
 
