@@ -12,6 +12,8 @@
 
 - 📫 How to reach me: hassanhauda@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabsCodes&layout=compact)
+
 <!--
 ## My Skills
 
