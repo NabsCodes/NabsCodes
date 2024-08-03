@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Hassan!
 
-👨🏾‍💻 I'm a passionate software developer dedicated to building user-centric solutions. I have experience in both front-end and back-end development, always eager to learn and adapt to learning new technologies.
+👨🏾‍💻 I'm a passionate software developer dedicated to building user-centric solutions. I have experience in both front-end and back-end development, and I am always eager to learn and adapt to learning new technologies.
 
 💬 Feel free to connect with me on any of these platforms!
 
@@ -15,4 +15,3 @@ I believe in pushing boundaries and striving for excellence. As I navigate throu
 - 📫 How to reach me: hassanhauda@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabsCodes&layout=compact)
-![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabsCodes&show_icons=true&theme=transparent)
