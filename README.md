@@ -15,3 +15,4 @@ I believe in pushing boundaries and striving for excellence. As I navigate throu
 - 📫 How to reach me: hassanhauda@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NabsCodes&layout=compact)
+![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NabsCodes&show_icons=true&theme=transparent)
