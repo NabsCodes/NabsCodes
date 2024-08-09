@@ -2,8 +2,6 @@
 
 👨🏾‍💻 I'm a passionate software developer dedicated to building user-centric solutions. I have experience in both front-end and back-end development, and I am always eager to learn and adapt to learning new technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NabsCodes&label=Profile%20views&color=0e75b6&style=flat" alt="nabscodes" /> </p>
-
 💬 Feel free to connect with me on any of these platforms!
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-umar-hassan/)
